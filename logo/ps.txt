@@ -1,3 +1,6 @@
 ps: https://www.uupoop.com/
 
 icon制作 https://github.com/romannurik/AndroidAssetStudio
+
+背景色：#03bdbd
+Logo是白色：#FFFFFF
